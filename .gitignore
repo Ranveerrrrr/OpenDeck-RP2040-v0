@@ -39,3 +39,18 @@ Thumbs.db
 # =========================
 .vscode/
 .idea/
+
+# =========================
+# KiCad autosave & temp files
+# =========================
+_autosave-*
+\#auto_saved_files\#
+*.lck
+*.bak
+*-bak
+
+# =========================
+# KiCad local / cache files
+# =========================
+fp-info-cache
+*.kicad_prl

@@ -597,7 +597,7 @@
 			(net 30 "Button8")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "197de72b-3371-4ca9-914d-8b00b768a99f")
+			(uuid "66d03767-47c2-4de3-b6e3-6be6b96256bd")
 		)
 		(pad "2" thru_hole circle
 			(at 0 4.5 90)
@@ -619,7 +619,7 @@
 			(net 14 "GND")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "77f65c6b-6bd6-4003-8fc0-78bfd64b9f2d")
+			(uuid "4111cff0-59c8-46d5-af51-baef5a202ac8")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H9.5mm.step"
@@ -944,7 +944,7 @@
 			(net 26 "Button4")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "44308df2-c078-43bf-8bd2-d7b08d14fb0c")
+			(uuid "0325ca12-6f06-4759-b616-2cc9fa8cd862")
 		)
 		(pad "2" thru_hole circle
 			(at 0 4.5 90)
@@ -966,7 +966,7 @@
 			(net 14 "GND")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "55372ecd-580b-439d-ac93-6879c7a55e38")
+			(uuid "14ff8eba-3515-419d-9133-b463c118270c")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H9.5mm.step"
@@ -1462,6 +1462,40 @@
 			(uuid "25eb48e2-f4eb-44c4-910e-187c2670d98f")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0805_2012Metric_Castellated.wrl"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/LED_THT.3dshapes/LED_D10.0mm.step"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1.3 1.3 1.3)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "footprints:LEDRD254W57D500H1070"
 		(layer "F.Cu")
@@ -1781,6 +1815,53 @@
 			(uuid "d32db73e-89a0-40dc-b38c-f99adb02d05b")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/LED_THT.3dshapes/LED_D10.0mm.step"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-XHP50_3V_HighIntensity.wrl"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_XINGLIGHT_1204_3210Metric_SideView.step"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1.3 1.3 1.3)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Button_Switch_THT:SW_PUSH_6mm_H9.5mm"
 		(layer "F.Cu")
@@ -2092,7 +2173,7 @@
 			(net 27 "Button5")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "3fcf8b4c-041c-49d6-8ec6-8d9268290537")
+			(uuid "38b394de-8266-413f-9183-bb7a287aa666")
 		)
 		(pad "2" thru_hole circle
 			(at 0 4.5 90)
@@ -2114,7 +2195,7 @@
 			(net 14 "GND")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "f82495ca-1fda-479c-bd14-98fd58c078a2")
+			(uuid "3eb95e26-d1b3-4bce-94ce-80eb6918e555")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H9.5mm.step"
@@ -2602,7 +2683,7 @@
 			(net 7 "Button1")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "e08f26db-257e-442d-947b-6e4d8cbd2290")
+			(uuid "b298abdd-428a-485a-bcfb-bb0e080e5751")
 		)
 		(pad "2" thru_hole circle
 			(at 0 4.5 90)
@@ -2624,7 +2705,7 @@
 			(net 14 "GND")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "8bd749c2-b18f-4039-982a-d6a2b411b81d")
+			(uuid "7a5961cf-0422-47ad-9f18-1b18a581e66d")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H9.5mm.step"
@@ -2957,6 +3038,29 @@
 			(uuid "79baf2bc-4d48-4256-bffc-f6a199afb713")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/LED_THT.3dshapes/LED_D10.0mm.step"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1.3 1.3 1.3)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Package_DIP:DIP-16_W7.62mm"
 		(layer "F.Cu")
@@ -3648,7 +3752,7 @@
 			(net 8 "Button2")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "a954446e-9dc8-457e-a3ab-6b789032935d")
+			(uuid "11db29d9-c0d3-44b4-8a4c-ad7de0635ad7")
 		)
 		(pad "2" thru_hole circle
 			(at 0 4.5 90)
@@ -3670,7 +3774,7 @@
 			(net 14 "GND")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "4be2446d-2bb8-42a3-8ad2-39708024c09d")
+			(uuid "8973b8ae-ce70-41e2-ab63-36160a9ef722")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H9.5mm.step"
@@ -4538,7 +4642,7 @@
 			(net 31 "Button9")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "cd92b658-158c-42f2-862c-9f1986e50a81")
+			(uuid "3c574362-7728-401c-be03-d39ed3e61fc5")
 		)
 		(pad "2" thru_hole circle
 			(at 0 4.5 90)
@@ -4560,7 +4664,7 @@
 			(net 14 "GND")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "7e4c0701-098c-4ebf-b579-77fb0226743f")
+			(uuid "565ea898-c6e3-4794-b113-57648140eabd")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H9.5mm.step"
@@ -4893,6 +4997,29 @@
 			(uuid "a383206a-761b-44f1-bf73-48771123c910")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/LED_THT.3dshapes/LED_D10.0mm.step"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1.3 1.3 1.3)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "footprints:LEDRD254W57D500H1070"
 		(layer "F.Cu")
@@ -5212,6 +5339,29 @@
 			(uuid "ae9bbbb8-b918-44be-831c-544baeb7d882")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/LED_THT.3dshapes/LED_D10.0mm.step"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1.3 1.3 1.3)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "footprints:LEDRD254W57D500H1070"
 		(layer "F.Cu")
@@ -5531,6 +5681,29 @@
 			(uuid "b3d2ce75-3aa1-4188-9d72-5665519af276")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/LED_THT.3dshapes/LED_D10.0mm.step"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1.3 1.3 1.3)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "footprints:LEDRD254W57D500H1070"
 		(layer "F.Cu")
@@ -5851,6 +6024,29 @@
 			(uuid "476cb4c6-5dc3-4280-ac05-06884e3b93d6")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/LED_THT.3dshapes/LED_D10.0mm.step"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1.3 1.3 1.3)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "footprints:LEDRD254W57D500H1070"
 		(layer "F.Cu")
@@ -6170,6 +6366,29 @@
 			(uuid "07f4f95b-66f8-41f8-ad77-5e3437acc43c")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/LED_THT.3dshapes/LED_D10.0mm.step"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1.3 1.3 1.3)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "footprints:XIAO-RP2040-DIP"
 		(layer "F.Cu")
@@ -6798,6 +7017,17 @@
 				(xyz -90 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/hardware/3dmodel/Seeed Studio XIAO RP2040 3D Renderings - 6940808/files/Seeed_Studio_XIAO_RP2040_v26.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Button_Switch_THT:SW_PUSH_6mm_H9.5mm"
 		(layer "F.Cu")
@@ -7109,7 +7339,7 @@
 			(net 9 "Button3")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "bfcf95a1-0463-4a67-9710-f1a088f1340e")
+			(uuid "28f49c7f-7a7d-452c-b88a-4e6528d62774")
 		)
 		(pad "2" thru_hole circle
 			(at 0 4.5 90)
@@ -7131,7 +7361,7 @@
 			(net 14 "GND")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "fa7545c4-7134-4181-9124-b2f64e17f0fd")
+			(uuid "7ec94f26-d08a-486d-b2a5-08ef2a3421ff")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H9.5mm.step"
@@ -7953,6 +8183,29 @@
 			(uuid "5ab585a8-0c24-42c8-a9e1-565145531152")
 		)
 		(embedded_fonts no)
+		(model "${KICAD9_3DMODEL_DIR}/LED_THT.3dshapes/LED_D10.0mm.step"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1.3 1.3 1.3)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 		(layer "F.Cu")
@@ -8916,7 +9169,7 @@
 			(net 28 "Button6")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "cefbfef0-a62e-4417-b6d5-d456f3b503a0")
+			(uuid "c45119b9-86fd-4950-8dd9-fc7c06792510")
 		)
 		(pad "2" thru_hole circle
 			(at 0 4.5 90)
@@ -8938,7 +9191,7 @@
 			(net 14 "GND")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "c3ec10ea-84fb-4ad9-ad5d-6b3ec267bd91")
+			(uuid "11e475fa-e627-4b78-8fe5-dbc7e8b012cd")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H9.5mm.step"
@@ -9263,7 +9516,7 @@
 			(net 29 "Button7")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "813dec83-833f-402b-b01c-12e116487549")
+			(uuid "9f7cf1c9-9032-459f-a124-038dd9b0675f")
 		)
 		(pad "2" thru_hole circle
 			(at 0 4.5 90)
@@ -9285,7 +9538,7 @@
 			(net 14 "GND")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "c75b97d3-ee67-4352-a172-224685876c47")
+			(uuid "fe5b98f5-777b-4449-a840-06bf84ab1e08")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H9.5mm.step"
