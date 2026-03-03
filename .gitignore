@@ -1,0 +1,41 @@
+# =========================
+# KiCad temporary & lock files
+# =========================
+*.lck
+*.bak
+*-bak
+~*.kicad_pcb
+~*.kicad_sch
+
+# =========================
+# KiCad caches & local state
+# =========================
+fp-info-cache
+*.kicad_prl
+
+# =========================
+# Backup folders
+# =========================
+*-backups/
+backup/
+
+# =========================
+# Fabrication outputs (optional)
+# =========================
+gerbers/
+fabrication/
+*.gbr
+*.drl
+*.zip
+
+# =========================
+# OS junk
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Editor junk
+# =========================
+.vscode/
+.idea/
