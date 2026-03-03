@@ -123,7 +123,7 @@
 	(net 43 "unconnected-(U1-GPIO29{slash}ADC3{slash}A3-Pad4)_1")
 	(net 44 "unconnected-(U1-GPIO28{slash}ADC2{slash}A2-Pad3)_1")
 	(net 45 "unconnected-(U2-~{INT}-Pad13)")
-	(net 46 "unconnected-(U3-QH&apos;-Pad9)")
+	(net 46 "unconnected-(U3-QH'-Pad9)")
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "13d9e3c4-b0e5-4dcc-97c8-df18ca5e3a03")
@@ -152,7 +152,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -179,7 +179,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/6f012708-a485-4773-8a96-a01e035bb2b0")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.62 -0.92)
@@ -315,7 +315,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -343,7 +343,7 @@
 		)
 		(path "/d342f857-276d-4b33-8369-f9b8fa72495b")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.25 1.5)
@@ -662,7 +662,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -690,7 +690,7 @@
 		)
 		(path "/60f5063c-e3d2-45e7-a6e9-feac213f98ff")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.25 1.5)
@@ -1009,7 +1009,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1036,7 +1036,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d6fbc28e-f01b-4e04-9537-bda69702a0da")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.62 -0.92)
@@ -1352,7 +1352,7 @@
 		)
 		(path "/332f9e85-d586-4dd8-bbdd-45534a337439")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.5 -1.566)
@@ -1705,7 +1705,7 @@
 		)
 		(path "/56da5ef0-af0c-4548-ae36-bda396cdbf18")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.5 -1.566)
@@ -1891,7 +1891,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1919,7 +1919,7 @@
 		)
 		(path "/c89764c0-5dcc-4178-8838-114abaf03ab2")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.25 1.5)
@@ -2238,7 +2238,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2265,7 +2265,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/5b8b1203-9075-4199-8e4f-0637697d7844")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.62 -0.92)
@@ -2401,7 +2401,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2429,7 +2429,7 @@
 		)
 		(path "/76ebd4f6-78db-48ac-859d-623f98cfb4c6")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.25 1.5)
@@ -2928,7 +2928,7 @@
 		)
 		(path "/2a08d255-ef14-4a4c-a30b-721af826659b")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.5 -1.566)
@@ -3117,7 +3117,7 @@
 		(property ki_fp_filters "DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm* SOIC*5.3x10.2mm*P1.27mm* SOIC*7.5x10.3mm*P1.27mm*")
 		(path "/6d2ae211-e4c9-4c28-bb05-5fce07fc3b2f")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.16 -1.33)
@@ -3347,7 +3347,7 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 46 "unconnected-(U3-QH&apos;-Pad9)")
+			(net 46 "unconnected-(U3-QH'-Pad9)")
 			(pinfunction "QH'")
 			(pintype "output+no_connect")
 			(uuid "b5d5cd69-11ab-429a-88fe-8f952e66d623")
@@ -3470,7 +3470,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3498,7 +3498,7 @@
 		)
 		(path "/0b04a6ad-642f-45fb-aba5-fa22e3149790")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.25 1.5)
@@ -3817,7 +3817,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3844,7 +3844,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/77ec281a-d990-407a-8c48-f619d3263aea")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.62 -0.92)
@@ -4007,7 +4007,7 @@
 		(property ki_fp_filters "DIP*W7.62mm*")
 		(path "/237aead8-923b-4899-b4c7-5e2857ce6aa9")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.16 -1.33)
@@ -4360,7 +4360,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4388,7 +4388,7 @@
 		)
 		(path "/8199e43c-1ec8-437b-b805-414962ee9395")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.25 1.5)
@@ -4887,7 +4887,7 @@
 		)
 		(path "/32c2549d-6bc6-44c0-9f08-e9aac332cea9")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.5 -1.566)
@@ -5229,7 +5229,7 @@
 		)
 		(path "/336841bd-20b1-48d4-8e36-6d9696bc8f09")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.5 -1.566)
@@ -5571,7 +5571,7 @@
 		)
 		(path "/c396b9e3-d4a0-43f3-9b7c-04d169f0167d")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.5 -1.566)
@@ -5914,7 +5914,7 @@
 		)
 		(path "/9f793d32-e2ed-49e6-8df7-736ac0cdb494")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.5 -1.566)
@@ -6256,7 +6256,7 @@
 		)
 		(path "/2314c7d8-3aae-4373-b387-7c25c6085d95")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.5 -1.566)
@@ -6446,7 +6446,7 @@
 		)
 		(path "/85ae2388-e00c-4b9b-aa5c-0ea1d88a5c57")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -8.89 8.509)
@@ -7028,6 +7028,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/hardware/3dmodel/Seeed_Studio_XIAO_RP2040_v26.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Button_Switch_THT:SW_PUSH_6mm_H9.5mm"
 		(layer "F.Cu")
@@ -7057,7 +7068,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7085,7 +7096,7 @@
 		)
 		(path "/1cb77559-eefd-4b71-8645-1cd9d70f3c47")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.25 1.5)
@@ -7404,7 +7415,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -7431,7 +7442,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0da59e20-ab62-4274-bbf8-52f67029ba3f")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.62 -0.92)
@@ -7567,7 +7578,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -7594,7 +7605,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/fcb84b76-6bd2-438d-9462-e400c4764cbf")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.62 -0.92)
@@ -7730,7 +7741,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -7757,7 +7768,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a6fdc023-bd47-4f8a-bfb9-ee5acb6af569")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.62 -0.92)
@@ -8073,7 +8084,7 @@
 		)
 		(path "/24d7364b-d77f-4523-89e0-2218814ef4be")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.5 -1.566)
@@ -8235,7 +8246,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -8262,7 +8273,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8a1ab1a6-b777-46c8-8fe2-e5f81e3875d3")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.62 -0.92)
@@ -8398,7 +8409,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -8425,7 +8436,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/318b05ac-1be3-4699-8e32-22295970eb97")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.62 -0.92)
@@ -8561,7 +8572,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -8588,7 +8599,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/5d2ad5f5-3869-45df-9cda-760fc6e4c08b")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.62 -0.92)
@@ -8724,7 +8735,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -8751,7 +8762,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/12093273-1877-49f0-82bc-ec6078d27648")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.62 -0.92)
@@ -8887,7 +8898,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8915,7 +8926,7 @@
 		)
 		(path "/28e5a125-57b2-4fe1-b417-25435d3bf4aa")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.25 1.5)
@@ -9234,7 +9245,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9262,7 +9273,7 @@
 		)
 		(path "/571c19d5-2c4c-4242-97f9-9a37a7751b75")
 		(sheetname "/")
-		(sheetfile "SMTH_diff.kicad_sch")
+		(sheetfile "OpenDeck-v0.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.25 1.5)
